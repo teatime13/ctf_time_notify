@@ -2,7 +2,7 @@ function myFunction() {
   //カレンダーID
   var calId = "ctftime@gmail.com";
   //LINE Notifyのアクセストークン
-  var key = ""; //this need to seacret
+  var key = ""; //this need to secret
   
   var url = "https://notify-api.line.me/api/notify";
   
